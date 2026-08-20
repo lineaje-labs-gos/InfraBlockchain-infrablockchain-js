@@ -1,6 +1,6 @@
 {
   "name": "infrablockchain-js",
-  "version": "22.1.4",
+  "version": "22.1.4-lineaje-01",
   "description": "Talk to infrablockchain API",
   "main": "dist/index.js",
   "scripts": {
@@ -22,9 +22,15 @@
   },
   "author": "infrablockchain",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/InfraBlockchain/infrablockchain-js.git"
+    "url": "https://github.com/lineaje-labs-gos/InfraBlockchain-infrablockchain-js"
   },
   "dependencies": {
     "bn.js": "5.2.0",
